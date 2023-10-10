@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bcc89e25477131101cb60bdbd36d4308" extends="task" label="My table" max_length="40" name="x_1051720_githubap_my_table" type="collection"/>
+</database>
